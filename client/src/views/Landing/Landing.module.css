@@ -1,0 +1,15 @@
+.landing-container {
+    background-image: url("./71504-paises.jpg");
+    /*background-image: url('C:\Users\josef\Documents\Proyecto Individual\cr-pi-countries-main\client\public\71504-paises.jpg');*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-container {
+    text-align: center;
+}
